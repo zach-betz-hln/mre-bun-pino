@@ -23,3 +23,5 @@ This does not:
 ```bash
 PRETTY_LOGGING=true bun run index.ts
 ```
+
+See https://github.com/oven-sh/bun/issues/5410
