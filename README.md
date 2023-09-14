@@ -1,5 +1,7 @@
 # mre-bun-pino
 
+Minimal, Reproducible Example for https://github.com/oven-sh/bun/issues/5410
+
 ## Setup
 
 To install dependencies:
@@ -23,5 +25,3 @@ This does not:
 ```bash
 PRETTY_LOGGING=true bun run index.ts
 ```
-
-See https://github.com/oven-sh/bun/issues/5410
